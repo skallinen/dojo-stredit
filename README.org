@@ -1,4 +1,5 @@
 * Structural Editing Dojo
+A toy project to practice elisp.
 - Practice structural editing on Emacs
 - Mostly ParEdit
 - `reverse-transpose` custom function defined
