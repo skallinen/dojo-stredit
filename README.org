@@ -1,0 +1,11 @@
+* Structural Editing Dojo
+- Practice structural editing on Emacs
+- Mostly ParEdit
+- `reverse-transpose` custom function defined
+- keybindings hard coded.
+- C-h to cheat.
+
+* TODO Use user defined keybinindings
+* TODO Fix bug `local-set-key: Key sequence C-M-d starts with non-prefix key ESC`
+* TODO Create more puzzles.
+
